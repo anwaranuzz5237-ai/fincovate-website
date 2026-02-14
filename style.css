@@ -620,7 +620,7 @@ img {
 .client-logo img {
     filter: grayscale(100%);
     transition: var(--transition);
-    max-height: 70px;
+    max-height: 120px;
     opacity: 0.7;
 }
 
