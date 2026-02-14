@@ -559,6 +559,10 @@ img {
     border-color: transparent;
 }
 
+.service-card:hover::before {
+    opacity: 1;
+}
+
 .service-card:hover h3,
 .service-card:hover p {
     color: white;
